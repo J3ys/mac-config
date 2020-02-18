@@ -3,6 +3,7 @@ brew cask install adoptopenjdk8
 
 brew cask install intellij-idea
 brew install parallel
+brew install telnet
 
 brew cask install sublime-text
 brew cask install postman
