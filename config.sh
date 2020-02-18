@@ -1,7 +1,7 @@
 brew tap adoptopenjdk/openjdk
 brew cask install adoptopenjdk8
 
-brew install intellij-idea
+brew cask install intellij-idea
 brew install parallel
 
 brew cask install sublime-text
