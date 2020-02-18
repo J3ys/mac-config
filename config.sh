@@ -25,5 +25,6 @@ brew cask install tunnelbear
 brew cask install karabiner-elements
 brew cask install grammarly
 brew cask install lastpass
+brew cask install iterm2
 
 
