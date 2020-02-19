@@ -8,6 +8,8 @@ brew install parallel
 brew install telnet
 brew install tcptraceroute
 brew cask install iterm2
+brew install htop
+brew install docker
 
 brew cask install google-chrome
 
