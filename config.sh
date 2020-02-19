@@ -22,6 +22,7 @@ brew cask install gitkraken
 brew cask install yourkit-java-profiler
 brew cask install xmind
 brew cask install virtualbox
+brew cask install vagrant
 
 #COMMUNICATORS
 
