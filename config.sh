@@ -1,7 +1,8 @@
 #ESSENTIAL
 
 brew tap adoptopenjdk/openjdk
-brew cask install adoptopenjdk8
+#brew cask install adoptopenjdk8
+brew cask install adoptopenjdk11
 
 brew cask install intellij-idea
 brew install parallel
@@ -33,6 +34,7 @@ brew cask install viber
 brew cask install skype
 brew cask install skype-for-business
 brew cask install slack
+brew cask install dropbox
 
 #CONVENIENCE
 
