@@ -11,6 +11,7 @@ brew install tcptraceroute
 brew cask install iterm2
 brew install htop
 brew install docker
+brew install npm
 
 brew cask install google-chrome
 
