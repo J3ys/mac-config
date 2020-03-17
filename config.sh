@@ -12,7 +12,10 @@ brew cask install iterm2
 brew install htop
 brew install docker
 brew install npm
+
 brew install mysql
+brew services start mysql
+brew services list
 
 brew cask install google-chrome
 
