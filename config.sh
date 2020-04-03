@@ -2,7 +2,8 @@
 
 brew tap adoptopenjdk/openjdk
 #brew cask install adoptopenjdk8
-brew cask install adoptopenjdk11
+#brew cask install adoptopenjdk11
+brew cask install sapmachine11-jdk
 
 brew cask install intellij-idea
 brew install parallel
