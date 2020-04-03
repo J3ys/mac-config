@@ -10,7 +10,6 @@ brew install telnet
 brew install tcptraceroute
 brew cask install iterm2
 brew install htop
-brew install docker
 brew install npm
 
 brew install mysql
@@ -30,6 +29,10 @@ brew cask install xmind
 brew cask install virtualbox
 brew cask install vagrant
 brew cask install forticlient
+brew install docker
+brew install docker-machine
+docker-machine create --driver virtualbox default
+#https://medium.com/@yutafujii_59175/a-complete-one-by-one-guide-to-install-docker-on-your-mac-os-using-homebrew-e818eb4cfc3
 
 #COMMUNICATORS
 
