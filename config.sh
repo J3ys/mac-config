@@ -45,6 +45,7 @@ brew cask install skype
 brew cask install skype-for-business
 brew cask install slack
 brew cask install dropbox
+brew cask install teamviewer
 
 #CONVENIENCE
 
