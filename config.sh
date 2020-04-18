@@ -59,3 +59,4 @@ brew cask install lastpass
 brew cask install keepingyouawake
 brew cask install vlc
 brew install tree
+brew cask install cleanmymac
