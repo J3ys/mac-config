@@ -60,3 +60,4 @@ brew cask install keepingyouawake
 brew cask install vlc
 brew install tree
 brew cask install cleanmymac
+brew cask install android-file-transfer
