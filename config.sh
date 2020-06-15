@@ -35,6 +35,8 @@ brew install docker
 brew install docker-machine
 docker-machine create --driver virtualbox default
 #https://medium.com/@yutafujii_59175/a-complete-one-by-one-guide-to-install-docker-on-your-mac-os-using-homebrew-e818eb4cfc3
+brew cask install browserstacklocal
+
 
 #COMMUNICATORS
 
