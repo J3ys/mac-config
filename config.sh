@@ -19,6 +19,7 @@ brew services start mysql
 brew services list
 
 brew cask install google-chrome
+brew cask install firefox
 
 #TOOLS
 
