@@ -1,11 +1,11 @@
 #ESSENTIAL
 
 brew tap adoptopenjdk/openjdk
-#brew cask install adoptopenjdk8
-#brew cask install adoptopenjdk11
-brew cask install sapmachine11-jdk
+#brew install --cask adoptopenjdk8
+#brew install --cask adoptopenjdk11
+brew install --cask sapmachine11-jdk
 
-brew cask install intellij-idea
+brew install --cask intellij-idea
 brew install parallel
 brew install telnet
 brew install tcptraceroute
@@ -23,47 +23,47 @@ brew cask install firefox
 
 #TOOLS
 
-brew cask install sublime-text
-brew cask install postman
-brew cask install soapui
-brew cask install gitkraken
-brew cask install yourkit-java-profiler
-brew cask install xmind
-brew cask install virtualbox
-brew cask install vagrant
-brew cask install forticlient
+brew install --cask sublime-text
+brew install --cask postman
+brew install --cask soapui
+brew install --cask gitkraken
+brew install --cask yourkit-java-profiler
+brew install --cask xmind
+brew install --cask virtualbox
+brew install --cask vagrant
+brew install --cask forticlient
 brew install docker
 brew install docker-machine
 brew install docker-compose
 docker-machine create --driver virtualbox default
 #https://medium.com/@yutafujii_59175/a-complete-one-by-one-guide-to-install-docker-on-your-mac-os-using-homebrew-e818eb4cfc3
-brew cask install browserstacklocal
-#brew cask install openvpn-connect
-brew cask install tunnelblick
+brew install --cask browserstacklocal
+#brew install --cask openvpn-connect
+brew install --cask tunnelblick
 
 
 #COMMUNICATORS
 
-brew cask install microsoft-teams
-brew cask install microsoft-office
-brew cask install telegram
-brew cask install viber
-brew cask install skype
-brew cask install skype-for-business
-brew cask install slack
-brew cask install dropbox
-brew cask install teamviewer
+brew install --cask microsoft-teams
+brew install --cask microsoft-office
+brew install --cask telegram
+brew install --cask viber
+brew install --cask skype
+brew install --cask skype-for-business
+brew install --cask slack
+brew install --cask dropbox
+brew install --cask teamviewer
 
 #CONVENIENCE
 
-brew cask install evernote
-brew cask install spotify
-brew cask install tunnelbear
-brew cask install karabiner-elements
-brew cask install grammarly
-brew cask install lastpass
-brew cask install keepingyouawake
-brew cask install vlc
+brew install --cask evernote
+brew install --cask spotify
+brew install --cask tunnelbear
+brew install --cask karabiner-elements
+brew install --cask grammarly
+brew install --cask lastpass
+brew install --cask keepingyouawake
+brew install --cask vlc
 brew install tree
-brew cask install cleanmymac
-brew cask install android-file-transfer
+brew install --cask cleanmymac
+brew install --cask android-file-transfer
