@@ -41,6 +41,7 @@ docker-machine create --driver virtualbox default
 brew install --cask browserstacklocal
 #brew install --cask openvpn-connect
 brew install --cask tunnelblick
+brew install openfortivpn
 
 
 #COMMUNICATORS
