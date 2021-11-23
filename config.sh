@@ -66,5 +66,5 @@ brew install --cask lastpass
 brew install --cask keepingyouawake
 brew install --cask vlc
 brew install tree
-brew install --cask cleanmymac
+brew install --cask onyx
 brew install --cask android-file-transfer
