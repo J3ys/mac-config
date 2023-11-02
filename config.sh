@@ -3,6 +3,7 @@
 brew tap adoptopenjdk/openjdk
 #brew install --cask adoptopenjdk8
 #brew install --cask adoptopenjdk11
+brew install --cask temurin17
 brew install --cask sapmachine11-jdk
 brew install gradle
 
