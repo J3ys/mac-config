@@ -71,3 +71,5 @@ brew install --cask vlc
 brew install tree
 brew install --cask onyx
 brew install --cask android-file-transfer
+brew install --cask cyberduck
+
