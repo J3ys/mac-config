@@ -72,4 +72,6 @@ brew install tree
 brew install --cask onyx
 brew install --cask android-file-transfer
 brew install --cask cyberduck
+brew install --cask cyberghost-vpn
+
 
